@@ -1,0 +1,417 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/abbasport-m3u/refs/heads/main/epg.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://bit.ly/abbasport-standard
+
+#EXTINF:-1 tvg-id="1e6ef5fb80" tvg-name="LLA - Clausura : Barrio Parque vs Deportivo Rivadavia Mendoza" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 PM - LLA - Clausura : Barrio Parque vs Deportivo Rivadavia Mendoza - 07:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7304973/index.m3u8
+#EXTINF:-1 tvg-id="1af23edbc1" tvg-name="LNB : Argentino Junin vs Ferro Carril Oeste" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 PM - LNB : Argentino Junin vs Ferro Carril Oeste - 07:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293265/index.m3u8
+#EXTINF:-1 tvg-id="2644e89451" tvg-name="Primera Division - Apertura : CA Belgrano vs CA Huracan" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:00 PM - Primera Division - Apertura : CA Belgrano vs CA Huracan - 07:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7238499/index.m3u8
+#EXTINF:-1 tvg-id="ebe6ba2fcf" tvg-name="NBA : Charlotte Hornets vs Portland Trail Blazers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 PM - NBA : Charlotte Hornets vs Portland Trail Blazers - 07:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7200033/index.m3u8
+#EXTINF:-1 tvg-id="b7015bdd64" tvg-name="NBA : Philadelphia vs Cleveland Cavaliers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 PM - NBA : Philadelphia vs Cleveland Cavaliers - 07:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7199987/index.m3u8
+#EXTINF:-1 tvg-id="a37147238d" tvg-name="Primera A - Apertura : Boyaca Chico vs Atletico Bucaramanga" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:22 PM - Primera A - Apertura : Boyaca Chico vs Atletico Bucaramanga - 07:22 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293222/index.m3u8
+#EXTINF:-1 tvg-id="8e73934dd8" tvg-name="NHL : New York Islanders vs Philadelphia Flyers" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:30 PM - NHL : New York Islanders vs Philadelphia Flyers - 07:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7201330/index.m3u8
+#EXTINF:-1 tvg-id="401ea19f36" tvg-name="NHL : Dallas Stars vs Vegas Golden Knights" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:30 PM - NHL : Dallas Stars vs Vegas Golden Knights - 07:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7199632/index.m3u8
+#EXTINF:-1 tvg-id="13cac92287" tvg-name="LNB : Obera TC vs CA San Lorenzo Almagro" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:30 PM - LNB : Obera TC vs CA San Lorenzo Almagro - 07:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293294/index.m3u8
+#EXTINF:-1 tvg-id="88d7c38159" tvg-name="Primera Division - Apertura : Monagas vs Deportivo La Guaira" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 PM - Primera Division - Apertura : Monagas vs Deportivo La Guaira - 07:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7336074/index.m3u8
+#EXTINF:-1 tvg-id="7288ad3102" tvg-name="Primera Division - Apertura : San Martin San Juan vs Atletico Tucuman" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 PM - Primera Division - Apertura : San Martin San Juan vs Atletico Tucuman - 07:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7238515/index.m3u8
+#EXTINF:-1 tvg-id="2c79eb7a4e" tvg-name="NBA : Memphis Grizzlies vs New Orleans Pelicans" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",08:00 PM - NBA : Memphis Grizzlies vs New Orleans Pelicans - 08:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7199961/index.m3u8
+#EXTINF:-1 tvg-id="82c2a54bb1" tvg-name="NHL : Chicago Blackhawks vs Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",08:00 PM - NHL : Chicago Blackhawks vs Tampa Bay Lightning - 08:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7199620/index.m3u8
+#EXTINF:-1 tvg-id="6bf721d4f9" tvg-name="LLA - Clausura : Estudiantes de Tucuman vs Club Atletico Montmartre" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",08:00 PM - LLA - Clausura : Estudiantes de Tucuman vs Club Atletico Montmartre - 08:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7304976/index.m3u8
+#EXTINF:-1 tvg-id="0164ff4ff1" tvg-name="NHL : Winnipeg Jets vs Utah" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",08:00 PM - NHL : Winnipeg Jets vs Utah - 08:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7199732/index.m3u8
+#EXTINF:-1 tvg-id="8ba0d6f81b" tvg-name="Super Smash (F) : Northern Spirit (F) vs Otago Sparks (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",08:10 PM - Super Smash (F) : Northern Spirit (F) vs Otago Sparks (F) - 08:10 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293314/index.m3u8
+#EXTINF:-1 tvg-id="54a1b743f5" tvg-name="Primera A - Apertura : Union Magdalena vs Millonarios" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",08:10 PM - Primera A - Apertura : Union Magdalena vs Millonarios - 08:10 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293221/index.m3u8
+#EXTINF:-1 tvg-id="2aee3f1aee" tvg-name="Newport Beach (SUA) : Agnes Guggenheim vs Lucia Quiterio" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",09:30 PM - Newport Beach (SUA) : Agnes Guggenheim vs Lucia Quiterio - 09:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7338835/index.m3u8
+#EXTINF:-1 tvg-id="c77e574ea0" tvg-name="Super 6 - Gr. 2 (F) : Anglia U19 (F) vs Nigeria U19 (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",09:30 PM - Super 6 - Gr. 2 (F) : Anglia U19 (F) vs Nigeria U19 (F) - 09:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7367861/index.m3u8
+#EXTINF:-1 tvg-id="d4b77bc1bb" tvg-name="Super 6 - Gr. 2 (F) : SUA U19 (F) vs Noua Zeelanda U19 (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",09:30 PM - Super 6 - Gr. 2 (F) : SUA U19 (F) vs Noua Zeelanda U19 (F) - 09:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7367860/index.m3u8
+#EXTINF:-1 tvg-id="793e907003" tvg-name="Newport Beach (SUA) : Tricia Mar vs Mireille Chedid-Daley" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",09:30 PM - Newport Beach (SUA) : Tricia Mar vs Mireille Chedid-Daley - 09:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7364584/index.m3u8
+#EXTINF:-1 tvg-id="2ce8194771" tvg-name="Newport Beach (SUA) : Claudia Grove vs Veronica Miroshnichenko" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",09:30 PM - Newport Beach (SUA) : Claudia Grove vs Veronica Miroshnichenko - 09:30 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7340788/index.m3u8
+#EXTINF:-1 tvg-id="11f3324c38" tvg-name="Liga de Expansion MX - Clausura : CA La Paz vs Correcaminos UAT" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 PM - Liga de Expansion MX - Clausura : CA La Paz vs Correcaminos UAT - 10:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7293343/index.m3u8
+#EXTINF:-1 tvg-id="876d3fa86f" tvg-name="Liga MX - Clausura : Tijuana vs Queretaro" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 PM - Liga MX - Clausura : Tijuana vs Queretaro - 10:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7256746/index.m3u8
+#EXTINF:-1 tvg-id="8cf8b4652b" tvg-name="Liga MX - Clausura : Mazatlan vs Deportivo Toluca" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 PM - Liga MX - Clausura : Mazatlan vs Deportivo Toluca - 10:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7256745/index.m3u8
+#EXTINF:-1 tvg-id="e61c84b147" tvg-name="A-League : Wellington Phoenix vs Central Coast Mariners" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",11:00 PM - A-League : Wellington Phoenix vs Central Coast Mariners - 11:00 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet6972680/index.m3u8
+#EXTINF:-1 tvg-id="f2812e6fb1" tvg-name="Super Smash : Northern Knights vs Otago Volts" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",11:55 PM - Super Smash : Northern Knights vs Otago Volts - 11:55 PM - EST - (01/24/2025)
+https://webufffit.mizhls.ru/lb/bet7135094/index.m3u8
+#EXTINF:-1 tvg-id="fe96409e35" tvg-name="DubaI (EAU) : Ksenia Laskutova vs Laura Rahnel" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",12:00 AM - DubaI (EAU) : Ksenia Laskutova vs Laura Rahnel - 12:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371288/index.m3u8
+#EXTINF:-1 tvg-id="290544d0c3" tvg-name="DubaI (EAU) : Noa Krznaric vs Victoria Borodulina" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",12:00 AM - DubaI (EAU) : Noa Krznaric vs Victoria Borodulina - 12:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371295/index.m3u8
+#EXTINF:-1 tvg-id="b506e07db5" tvg-name="DubaI (EAU) : Polina Bakhmutkina vs Denise Hrdinkova" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",01:10 AM - DubaI (EAU) : Polina Bakhmutkina vs Denise Hrdinkova - 01:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371287/index.m3u8
+#EXTINF:-1 tvg-id="3e8d50b92c" tvg-name="DubaI (EAU) : Evgeniya Burdina vs Eva Busaad" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",01:10 AM - DubaI (EAU) : Evgeniya Burdina vs Eva Busaad - 01:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371285/index.m3u8
+#EXTINF:-1 tvg-id="a49c61ad65" tvg-name="DubaI (EAU) : Nao Phang Ziyi vs Izabela Heinzova" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",01:10 AM - DubaI (EAU) : Nao Phang Ziyi vs Izabela Heinzova - 01:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371130/index.m3u8
+#EXTINF:-1 tvg-id="134d5dffc7" tvg-name="Super 6 - Gr. 2 (F) : Africa de Sud U19 (F) vs Irlanda U19 (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",01:30 AM - Super 6 - Gr. 2 (F) : Africa de Sud U19 (F) vs Irlanda U19 (F) - 01:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7367863/index.m3u8
+#EXTINF:-1 tvg-id="2eb62b04de" tvg-name="Super 6 - Gr. 1 (F) : Australia U19 (F) vs India de Vest U19 (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/rugby.png?raw=true" group-title="Cricket",01:30 AM - Super 6 - Gr. 1 (F) : Australia U19 (F) vs India de Vest U19 (F) - 01:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7367862/index.m3u8
+#EXTINF:-1 tvg-id="6f5452baea" tvg-name="NBL : SE Melbourne Phoenix vs Tasmania JackJumpers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",01:30 AM - NBL : SE Melbourne Phoenix vs Tasmania JackJumpers - 01:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6972679/index.m3u8
+#EXTINF:-1 tvg-id="a60b809dd7" tvg-name="DubaI (EAU) : Karola Patricia Bejenaru vs Ella Sahnis" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",02:20 AM - DubaI (EAU) : Karola Patricia Bejenaru vs Ella Sahnis - 02:20 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371293/index.m3u8
+#EXTINF:-1 tvg-id="7212881bf5" tvg-name="DubaI (EAU) : Mirjana Jovanovic vs Simona Ogescu" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",02:20 AM - DubaI (EAU) : Mirjana Jovanovic vs Simona Ogescu - 02:20 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371294/index.m3u8
+#EXTINF:-1 tvg-id="c697e4c3e0" tvg-name="I-League : Namdhari Sports Academy vs Lajong SC" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",02:30 AM - I-League : Namdhari Sports Academy vs Lajong SC - 02:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7276068/index.m3u8
+#EXTINF:-1 tvg-id="b03f4fd19f" tvg-name="Olomouc (CEH) : Adam Jurajda vs Peter Goldsteiner" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",02:30 AM - Olomouc (CEH) : Adam Jurajda vs Peter Goldsteiner - 02:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372165/index.m3u8
+#EXTINF:-1 tvg-id="a4dec5eb27" tvg-name="Blagoevgrad (BGR) : Anastasiya Zaparyniuk vs Julia Terziyska" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",03:00 AM - Blagoevgrad (BGR) : Anastasiya Zaparyniuk vs Julia Terziyska - 03:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372015/index.m3u8
+#EXTINF:-1 tvg-id="57478075b9" tvg-name="Blagoevgrad (BGR) : Jovana Grujic vs Andjela Lazarevic" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",03:00 AM - Blagoevgrad (BGR) : Jovana Grujic vs Andjela Lazarevic - 03:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7373276/index.m3u8
+#EXTINF:-1 tvg-id="27cf19ea99" tvg-name="Blagoevgrad (BGR) : Emma Dvorackova vs Nevena Sokovic" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",03:00 AM - Blagoevgrad (BGR) : Emma Dvorackova vs Nevena Sokovic - 03:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372017/index.m3u8
+#EXTINF:-1 tvg-id="43b51024b4" tvg-name="DubaI (EAU) : Xenia Bandurowska vs Grete Gull" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",03:30 AM - DubaI (EAU) : Xenia Bandurowska vs Grete Gull - 03:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371296/index.m3u8
+#EXTINF:-1 tvg-id="02307d3fcf" tvg-name="Olomouc (CEH) : Karol Filar vs Timur Maulenov" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",03:45 AM - Olomouc (CEH) : Karol Filar vs Timur Maulenov - 03:45 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372219/index.m3u8
+#EXTINF:-1 tvg-id="e4383ffc0e" tvg-name="Blagoevgrad (BGR) : Lidia Encheva vs Abigail Amos" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",04:10 AM - Blagoevgrad (BGR) : Lidia Encheva vs Abigail Amos - 04:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372014/index.m3u8
+#EXTINF:-1 tvg-id="10dcff8241" tvg-name="Blagoevgrad (BGR) : Viktoria Lackova vs Mirela Shkumbova" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",04:10 AM - Blagoevgrad (BGR) : Viktoria Lackova vs Mirela Shkumbova - 04:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7373281/index.m3u8
+#EXTINF:-1 tvg-id="cbee7898db" tvg-name="Olomouc (CEH) : Daniel Siniakov vs Mikalai Haliak" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",05:00 AM - Olomouc (CEH) : Daniel Siniakov vs Mikalai Haliak - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372220/index.m3u8
+#EXTINF:-1 tvg-id="9bba9591b4" tvg-name="Olomouc (CEH) : Stijn Pel vs Jan Klimas" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",05:00 AM - Olomouc (CEH) : Stijn Pel vs Jan Klimas - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372164/index.m3u8
+#EXTINF:-1 tvg-id="48cd4f6ed2" tvg-name="Premier League : Tampines Rovers vs Hougang United" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",05:00 AM - Premier League : Tampines Rovers vs Hougang United - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178755/index.m3u8
+#EXTINF:-1 tvg-id="bcdd6b5cca" tvg-name="I-League : Rajasthan Utd vs Churchill Brothers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",05:00 AM - I-League : Rajasthan Utd vs Churchill Brothers - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293429/index.m3u8
+#EXTINF:-1 tvg-id="a5c4ba96c6" tvg-name="Premier League : Balestier Khalsa vs Young Lions" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",05:00 AM - Premier League : Balestier Khalsa vs Young Lions - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178756/index.m3u8
+#EXTINF:-1 tvg-id="6306e9e240" tvg-name="TBSL : Darussafaka vs Petkim Spor" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",05:00 AM - TBSL : Darussafaka vs Petkim Spor - 05:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288737/index.m3u8
+#EXTINF:-1 tvg-id="4a3e7c4abd" tvg-name="Oeiras 3 (POR) : Alexis Galarneau vs Liam Draxl" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",05:55 AM - Oeiras 3 (POR) : Alexis Galarneau vs Liam Draxl - 05:55 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371871/index.m3u8
+#EXTINF:-1 tvg-id="4d6197628a" tvg-name="Liga 2 : Felgueiras 1932 vs Alverca" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",06:00 AM - Liga 2 : Felgueiras 1932 vs Alverca - 06:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7238796/index.m3u8
+#EXTINF:-1 tvg-id="1a260bebf3" tvg-name="NBL : Balkan Botevgrad vs Spartak Pleven" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:00 AM - NBL : Balkan Botevgrad vs Spartak Pleven - 06:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294016/index.m3u8
+#EXTINF:-1 tvg-id="a81e128dfe" tvg-name="Quimper (FRA) - Dublu : R.Arneodo/M.Guinard vs R.Cash/J.Tracy" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",06:00 AM - Quimper (FRA) - Dublu : R.Arneodo/M.Guinard vs R.Cash/J.Tracy - 06:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7371839/index.m3u8
+#EXTINF:-1 tvg-id="48187f60d9" tvg-name="CBA : Jiangsu Dragons vs Shanxi Loongs" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Jiangsu Dragons vs Shanxi Loongs - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178577/index.m3u8
+#EXTINF:-1 tvg-id="cb520b2df7" tvg-name="CBA : Liaoning Flying Leopards vs Ningbo Rockets" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Liaoning Flying Leopards vs Ningbo Rockets - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178572/index.m3u8
+#EXTINF:-1 tvg-id="40af06f1e3" tvg-name="CBA : Beijing Royal Fighters vs Shandong Heroes" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Beijing Royal Fighters vs Shandong Heroes - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178575/index.m3u8
+#EXTINF:-1 tvg-id="00b432782a" tvg-name="CBA : Zhejiang Guangsha Lions vs Zhejiang Golden Bulls" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Zhejiang Guangsha Lions vs Zhejiang Golden Bulls - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178578/index.m3u8
+#EXTINF:-1 tvg-id="185cb5fb69" tvg-name="CBA : Qingdao Eagles vs Jilin" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Qingdao Eagles vs Jilin - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178573/index.m3u8
+#EXTINF:-1 tvg-id="1577d888e3" tvg-name="CBA : Shenzhen Leopards vs Xinjiang Tigers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Shenzhen Leopards vs Xinjiang Tigers - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178574/index.m3u8
+#EXTINF:-1 tvg-id="ea86609af8" tvg-name="CBA : Tianjin Pioneers vs Sichuan" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Tianjin Pioneers vs Sichuan - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178579/index.m3u8
+#EXTINF:-1 tvg-id="d14c373551" tvg-name="CBA : Shanghai Sharks vs Nanjing Tongxi" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:35 AM - CBA : Shanghai Sharks vs Nanjing Tongxi - 06:35 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178576/index.m3u8
+#EXTINF:-1 tvg-id="cc57886241" tvg-name="Bundesliga 2 : FC Koln vs Elversberg" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:00 AM - Bundesliga 2 : FC Koln vs Elversberg - 07:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6949988/index.m3u8
+#EXTINF:-1 tvg-id="94db6d3599" tvg-name="Bundesliga 2 : Schalke vs Nurnberg" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:00 AM - Bundesliga 2 : Schalke vs Nurnberg - 07:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6949994/index.m3u8
+#EXTINF:-1 tvg-id="5ef5a9fcb0" tvg-name="KBSL (F) : Emlak Konut SK (F) vs Fenerbahce (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 AM - KBSL (F) : Emlak Konut SK (F) vs Fenerbahce (F) - 07:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293994/index.m3u8
+#EXTINF:-1 tvg-id="056e5558ee" tvg-name="Bundesliga 2 : Karlsruher vs Fortuna Dusseldorf" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:00 AM - Bundesliga 2 : Karlsruher vs Fortuna Dusseldorf - 07:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6949990/index.m3u8
+#EXTINF:-1 tvg-id="b50ecf9c6a" tvg-name="TBL : Fenerbahce Koleji SK vs Sigortam.net ITU" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:00 AM - TBL : Fenerbahce Koleji SK vs Sigortam.net ITU - 07:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288741/index.m3u8
+#EXTINF:-1 tvg-id="e0c6e161fb" tvg-name="Oeiras 3 (POR) : Alexander Blockx vs Mark Lajal" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",07:05 AM - Oeiras 3 (POR) : Alexander Blockx vs Mark Lajal - 07:05 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7373263/index.m3u8
+#EXTINF:-1 tvg-id="994d59ece1" tvg-name="TBSL : Karsiyaka vs Bahcesehir Koleji" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:30 AM - TBSL : Karsiyaka vs Bahcesehir Koleji - 07:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288731/index.m3u8
+#EXTINF:-1 tvg-id="108fa556a0" tvg-name="SuperLiga : Poli Iasi vs Hermannstadt" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 AM - SuperLiga : Poli Iasi vs Hermannstadt - 07:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944996/index.m3u8
+#EXTINF:-1 tvg-id="7a2866e0c2" tvg-name="KBSL (F) : Nesibe Aydin (F) vs Adana Botas (F)" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",08:00 AM - KBSL (F) : Nesibe Aydin (F) vs Adana Botas (F) - 08:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293991/index.m3u8
+#EXTINF:-1 tvg-id="7b018fb880" tvg-name="TBL : CO Basket vs Istanbul Anka SK" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",08:00 AM - TBL : CO Basket vs Istanbul Anka SK - 08:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288755/index.m3u8
+#EXTINF:-1 tvg-id="f8c64ea02d" tvg-name="Quimper (FRA) : Sascha Wayenburg vs Matteo Martineau" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",08:00 AM - Quimper (FRA) : Sascha Wayenburg vs Matteo Martineau - 08:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7373390/index.m3u8
+#EXTINF:-1 tvg-id="41988fd062" tvg-name="Oeiras 3 (POR) - Dublu : M.Middelkoop/D.Molchanov vs L.Draxl/C.Harper" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",08:15 AM - Oeiras 3 (POR) - Dublu : M.Middelkoop/D.Molchanov vs L.Draxl/C.Harper - 08:15 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7372544/index.m3u8
+#EXTINF:-1 tvg-id="4a934d08e9" tvg-name="HNL : Gorica vs Varazdin" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:00 AM - HNL : Gorica vs Varazdin - 09:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7205791/index.m3u8
+#EXTINF:-1 tvg-id="7d7b75c289" tvg-name="Korisliga - Turul castigatorilor : UU vs Korihait - Kauhajoen Karhu" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",09:00 AM - Korisliga - Turul castigatorilor : UU vs Korihait - Kauhajoen Karhu - 09:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7356513/index.m3u8
+#EXTINF:-1 tvg-id="ec1c8e921f" tvg-name="TBL : Cagdas Bodrum Spor vs Bordo BK" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",09:00 AM - TBL : Cagdas Bodrum Spor vs Bordo BK - 09:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288740/index.m3u8
+#EXTINF:-1 tvg-id="5edc3f03b9" tvg-name="Super League : FC Goa vs Chennaiyin" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:00 AM - Super League : FC Goa vs Chennaiyin - 09:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6977244/index.m3u8
+#EXTINF:-1 tvg-id="878257a35b" tvg-name="Quimper (FRA) : Ricardas Berankis vs Pierre Hugues Herbert" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",09:10 AM - Quimper (FRA) : Ricardas Berankis vs Pierre Hugues Herbert - 09:10 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7374861/index.m3u8
+#EXTINF:-1 tvg-id="3cca7debda" tvg-name="Runda Principala - Gr.2 : Olanda vs Austria" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",09:30 AM - Runda Principala - Gr.2 : Olanda vs Austria - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345941/index.m3u8
+#EXTINF:-1 tvg-id="b2c9019ca3" tvg-name="Bundesliga : Mainz vs Stuttgart" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : Mainz vs Stuttgart - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944969/index.m3u8
+#EXTINF:-1 tvg-id="c8dda60d09" tvg-name="Bundesliga : RB Leipzig vs Bayer Leverkusen" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : RB Leipzig vs Bayer Leverkusen - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944963/index.m3u8
+#EXTINF:-1 tvg-id="881922cfbd" tvg-name="Runda Principala - Gr.1 : Italia vs Elvetia" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",09:30 AM - Runda Principala - Gr.1 : Italia vs Elvetia - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345938/index.m3u8
+#EXTINF:-1 tvg-id="76265563f1" tvg-name="Turul invinsilor - Gr.1 : Algeria vs Kuweit" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",09:30 AM - Turul invinsilor - Gr.1 : Algeria vs Kuweit - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7341646/index.m3u8
+#EXTINF:-1 tvg-id="6dafe70d55" tvg-name="Bundesliga : Augsburg vs Heidenheim" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : Augsburg vs Heidenheim - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944967/index.m3u8
+#EXTINF:-1 tvg-id="22646f8f61" tvg-name="Bundesliga : Borussia Dortmund vs Werder Bremen" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : Borussia Dortmund vs Werder Bremen - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944964/index.m3u8
+#EXTINF:-1 tvg-id="e23ccc9058" tvg-name="Bundesliga : Freiburg vs Bayern Munchen" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : Freiburg vs Bayern Munchen - 09:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944966/index.m3u8
+#EXTINF:-1 tvg-id="693153cf0c" tvg-name="TBL : Balikesir Belediye Spor vs Ted Kolejliler" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - TBL : Balikesir Belediye Spor vs Ted Kolejliler - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288742/index.m3u8
+#EXTINF:-1 tvg-id="9ae9a8f009" tvg-name="Liga 3 - Gr.B : SC 1º Dezembro vs Caldas SC" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.B : SC 1º Dezembro vs Caldas SC - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7247839/index.m3u8
+#EXTINF:-1 tvg-id="757d760b2b" tvg-name="Liga 3 - Gr.B : Atletico CP vs Oliveira Hospital" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.B : Atletico CP vs Oliveira Hospital - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7247831/index.m3u8
+#EXTINF:-1 tvg-id="d3c13eaca3" tvg-name="Liga Estonia/Letonia : Liepajas Lauvas vs Kalev/Cramo" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - Liga Estonia/Letonia : Liepajas Lauvas vs Kalev/Cramo - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293869/index.m3u8
+#EXTINF:-1 tvg-id="f9e15c9fef" tvg-name="TBSL : Bursaspor vs Manisa" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - TBSL : Bursaspor vs Manisa - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288736/index.m3u8
+#EXTINF:-1 tvg-id="367ef46ac6" tvg-name="Division A : AEK Larnaca vs Forex Time Apollon" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - Division A : AEK Larnaca vs Forex Time Apollon - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293572/index.m3u8
+#EXTINF:-1 tvg-id="6723bc96d9" tvg-name="Liga 3 - Gr.B : SC Lusitania vs Sporting Lisabona B" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.B : SC Lusitania vs Sporting Lisabona B - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7293840/index.m3u8
+#EXTINF:-1 tvg-id="cb75ba6e66" tvg-name="Liga 3 - Gr.B : Covilha vs UD Santarem" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.B : Covilha vs UD Santarem - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7247830/index.m3u8
+#EXTINF:-1 tvg-id="68f6a64f7f" tvg-name="Korisliga - Turul castigatorilor : Salon Vilpas vs Kataja" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - Korisliga - Turul castigatorilor : Salon Vilpas vs Kataja - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7356514/index.m3u8
+#EXTINF:-1 tvg-id="9044f0acde" tvg-name="Liga 3 - Gr.B : Os Belenenses vs Academica Coimbra" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.B : Os Belenenses vs Academica Coimbra - 10:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7247833/index.m3u8
+#EXTINF:-1 tvg-id="aa2eb99345" tvg-name="Quimper (FRA) - Dublu : S.Doumbia/F.Reboul vs T.Arribage/V.V.Cornea" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/tennis.png" group-title="Tennis",10:20 AM - Quimper (FRA) - Dublu : S.Doumbia/F.Reboul vs T.Arribage/V.V.Cornea - 10:20 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7373524/index.m3u8
+#EXTINF:-1 tvg-id="25a05b0230" tvg-name="Primeira Liga : Famalicao vs Estrela Amadora" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Primeira Liga : Famalicao vs Estrela Amadora - 10:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6950029/index.m3u8
+#EXTINF:-1 tvg-id="d63b77c57e" tvg-name="Liga 2 : Maritimo vs Pacos Ferreira" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Liga 2 : Maritimo vs Pacos Ferreira - 10:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7238797/index.m3u8
+#EXTINF:-1 tvg-id="13f66652d1" tvg-name="Primeira Liga : Farense vs Rio Ave" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Primeira Liga : Farense vs Rio Ave - 10:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6950035/index.m3u8
+#EXTINF:-1 tvg-id="afd1a20e66" tvg-name="NBL : Cherno More vs Minyor 2015" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",11:00 AM - NBL : Cherno More vs Minyor 2015 - 11:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294017/index.m3u8
+#EXTINF:-1 tvg-id="5ee6537426" tvg-name="Korisliga - Turul invinsilor : Nokia vs Kouvot Kouvola" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",11:00 AM - Korisliga - Turul invinsilor : Nokia vs Kouvot Kouvola - 11:00 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7356516/index.m3u8
+#EXTINF:-1 tvg-id="202a270fd6" tvg-name="HNL : Dinamo Zagreb vs Istra 1961" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",11:30 AM - HNL : Dinamo Zagreb vs Istra 1961 - 11:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7205789/index.m3u8
+#EXTINF:-1 tvg-id="89bd601fcf" tvg-name="ABL : Klosterneuburg vs SKN St. Polten" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",11:30 AM - ABL : Klosterneuburg vs SKN St. Polten - 11:30 AM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178781/index.m3u8
+#EXTINF:-1 tvg-id="a1619d2387" tvg-name="2 Liga : Swarco Raiders vs Pirlo Kufstein Towers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - 2 Liga : Swarco Raiders vs Pirlo Kufstein Towers - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7187466/index.m3u8
+#EXTINF:-1 tvg-id="3f4d9cb078" tvg-name="Runda Principala - Gr.2 : Qatar vs Ungaria" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",12:00 PM - Runda Principala - Gr.2 : Qatar vs Ungaria - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345940/index.m3u8
+#EXTINF:-1 tvg-id="53dd0d40b9" tvg-name="NBL : Beroe vs Levski Sofia" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - NBL : Beroe vs Levski Sofia - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294188/index.m3u8
+#EXTINF:-1 tvg-id="47326a4a41" tvg-name="Super League : Yverdon vs Servette" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",12:00 PM - Super League : Yverdon vs Servette - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944998/index.m3u8
+#EXTINF:-1 tvg-id="32374ae59e" tvg-name="Challenge League : Bellinzona vs Schaffhausen" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",12:00 PM - Challenge League : Bellinzona vs Schaffhausen - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7283979/index.m3u8
+#EXTINF:-1 tvg-id="ad79c13b2c" tvg-name="ABL : BBC Nord Dragonz vs Swans Gmunden" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - ABL : BBC Nord Dragonz vs Swans Gmunden - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178782/index.m3u8
+#EXTINF:-1 tvg-id="a484171366" tvg-name="NBA : San Antonio Spurs vs Indiana Pacers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - NBA : San Antonio Spurs vs Indiana Pacers - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7070725/index.m3u8
+#EXTINF:-1 tvg-id="25a005e280" tvg-name="Super League : Grasshopper vs Young Boys" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",12:00 PM - Super League : Grasshopper vs Young Boys - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944997/index.m3u8
+#EXTINF:-1 tvg-id="385978ca3a" tvg-name="LNB Pro A : Gravelines Dunkerque vs Stade Rochelais" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - LNB Pro A : Gravelines Dunkerque vs Stade Rochelais - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294246/index.m3u8
+#EXTINF:-1 tvg-id="3e3a428336" tvg-name="Turul invinsilor - Gr.1 : Guinea vs Polonia" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",12:00 PM - Turul invinsilor - Gr.1 : Guinea vs Polonia - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345936/index.m3u8
+#EXTINF:-1 tvg-id="7a9571198e" tvg-name="Runda Principala - Gr.1 : Cehia vs Danemarca" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",12:00 PM - Runda Principala - Gr.1 : Cehia vs Danemarca - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345937/index.m3u8
+#EXTINF:-1 tvg-id="c02a3d127a" tvg-name="LNB Pro A : Le Portel vs Saint Quentin" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - LNB Pro A : Le Portel vs Saint Quentin - 12:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294245/index.m3u8
+#EXTINF:-1 tvg-id="fb8192d271" tvg-name="TBSL : Besiktas vs Tofas" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:30 PM - TBSL : Besiktas vs Tofas - 12:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288732/index.m3u8
+#EXTINF:-1 tvg-id="f251c9c27f" tvg-name="Bundesliga : Borussia Monchengladbach vs Bochum" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",12:30 PM - Bundesliga : Borussia Monchengladbach vs Bochum - 12:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944970/index.m3u8
+#EXTINF:-1 tvg-id="317e0c2bce" tvg-name="2 Liga : BBU Salzburg vs Mattersburg Rocks" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:30 PM - 2 Liga : BBU Salzburg vs Mattersburg Rocks - 12:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7187464/index.m3u8
+#EXTINF:-1 tvg-id="af095e7d19" tvg-name="2 Liga : Jennersdorf Blackbirds vs Vienna DC" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",01:00 PM - 2 Liga : Jennersdorf Blackbirds vs Vienna DC - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7187465/index.m3u8
+#EXTINF:-1 tvg-id="1a40587ed0" tvg-name="ABL : Panthers Furstenfeld vs Flyers Wels" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",01:00 PM - ABL : Panthers Furstenfeld vs Flyers Wels - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7178783/index.m3u8
+#EXTINF:-1 tvg-id="21a2c6a83b" tvg-name="SuperLiga : Rapid Bucuresti vs Universitatea Craiova" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",01:00 PM - SuperLiga : Rapid Bucuresti vs Universitatea Craiova - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6944995/index.m3u8
+#EXTINF:-1 tvg-id="431f6121aa" tvg-name="Liga Estonia/Letonia : Rigas Zelli vs KK Viimsi" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",01:00 PM - Liga Estonia/Letonia : Rigas Zelli vs KK Viimsi - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294010/index.m3u8
+#EXTINF:-1 tvg-id="06255d3d75" tvg-name="NHL : Boston Bruins vs Colorado Avalanche" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:00 PM - NHL : Boston Bruins vs Colorado Avalanche - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199599/index.m3u8
+#EXTINF:-1 tvg-id="241cf79dd2" tvg-name="Primeira Liga : Casa Pia vs Benfica" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",01:00 PM - Primeira Liga : Casa Pia vs Benfica - 01:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6950027/index.m3u8
+#EXTINF:-1 tvg-id="984dcef69a" tvg-name="ICE League : Bolzano Foxes vs Fehervar AV19" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - ICE League : Bolzano Foxes vs Fehervar AV19 - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7217896/index.m3u8
+#EXTINF:-1 tvg-id="2a198bf0ee" tvg-name="NLA : Ambri Piotta vs Lausanne" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Ambri Piotta vs Lausanne - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261436/index.m3u8
+#EXTINF:-1 tvg-id="d6e90760d3" tvg-name="NLA : Schlittschuh Club Bern vs Rapperswil Jona Lakers" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Schlittschuh Club Bern vs Rapperswil Jona Lakers - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261434/index.m3u8
+#EXTINF:-1 tvg-id="20f7ad6e8b" tvg-name="NLA : Biel Bienne vs Fribourg Gotteron" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Biel Bienne vs Fribourg Gotteron - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261435/index.m3u8
+#EXTINF:-1 tvg-id="5e217167fe" tvg-name="ICE League : Pustertal Wolfe vs Graz 99ers" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - ICE League : Pustertal Wolfe vs Graz 99ers - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7217898/index.m3u8
+#EXTINF:-1 tvg-id="5b5d7f60cf" tvg-name="NLA : Geneve Servette vs EV Zug" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Geneve Servette vs EV Zug - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261437/index.m3u8
+#EXTINF:-1 tvg-id="c25603277e" tvg-name="NLA : SC Langenau Tigers vs Davos" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : SC Langenau Tigers vs Davos - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7283974/index.m3u8
+#EXTINF:-1 tvg-id="96b9f68583" tvg-name="NLA : Lugano vs Kloten" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Lugano vs Kloten - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261439/index.m3u8
+#EXTINF:-1 tvg-id="b201ce0ddd" tvg-name="NLA : Ajoie vs ZSC Lions" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",01:45 PM - NLA : Ajoie vs ZSC Lions - 01:45 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7261433/index.m3u8
+#EXTINF:-1 tvg-id="58cc1a4c72" tvg-name="LNB Pro B : Blois vs Chalons Reims" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",02:00 PM - LNB Pro B : Blois vs Chalons Reims - 02:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7288846/index.m3u8
+#EXTINF:-1 tvg-id="1975e6753a" tvg-name="Super League : Winterthur vs Lugano" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",02:30 PM - Super League : Winterthur vs Lugano - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6945011/index.m3u8
+#EXTINF:-1 tvg-id="a716fd22f2" tvg-name="Runda Principala - Gr.1 : Germania vs Tunisia" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",02:30 PM - Runda Principala - Gr.1 : Germania vs Tunisia - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345939/index.m3u8
+#EXTINF:-1 tvg-id="aad28b2cb5" tvg-name="LNB Pro A : JL Bourg vs Nanterre" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",02:30 PM - LNB Pro A : JL Bourg vs Nanterre - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294241/index.m3u8
+#EXTINF:-1 tvg-id="5346564892" tvg-name="LNB Pro A : Nancy vs Dijon" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",02:30 PM - LNB Pro A : Nancy vs Dijon - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7294240/index.m3u8
+#EXTINF:-1 tvg-id="f6a653e2a8" tvg-name="Bundesliga 2 : Hertha Berlin vs Hamburger" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",02:30 PM - Bundesliga 2 : Hertha Berlin vs Hamburger - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6949993/index.m3u8
+#EXTINF:-1 tvg-id="53769f033c" tvg-name="Runda Principala - Gr.2 : Franta vs Macedonia de Nord" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/sports.png?raw=true" group-title="Other",02:30 PM - Runda Principala - Gr.2 : Franta vs Macedonia de Nord - 02:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7345942/index.m3u8
+#EXTINF:-1 tvg-id="c80b6b43ba" tvg-name="NBA : Minnesota Timberwolves vs Denver Nuggets" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",03:00 PM - NBA : Minnesota Timberwolves vs Denver Nuggets - 03:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199884/index.m3u8
+#EXTINF:-1 tvg-id="e887b9cb61" tvg-name="Primeira Liga : Sporting Lisabona vs CD Nacional" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",03:30 PM - Primeira Liga : Sporting Lisabona vs CD Nacional - 03:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet6950030/index.m3u8
+#EXTINF:-1 tvg-id="a8e4ddd4e2" tvg-name="NHL : Edmonton Oilers vs Buffalo Sabres" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",04:00 PM - NHL : Edmonton Oilers vs Buffalo Sabres - 04:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199647/index.m3u8
+#EXTINF:-1 tvg-id="7fe554101c" tvg-name="Primera Division - Apertura : Estudiantes de Merida vs Carabobo" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",04:00 PM - Primera Division - Apertura : Estudiantes de Merida vs Carabobo - 04:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7336077/index.m3u8
+#EXTINF:-1 tvg-id="d2ecd8f915" tvg-name="Primera Division - Apertura : Universidad Central Venezuela vs Academia Anzoategui FC" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",04:00 PM - Primera Division - Apertura : Universidad Central Venezuela vs Academia Anzoategui FC - 04:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7336073/index.m3u8
+#EXTINF:-1 tvg-id="43fe6fa5eb" tvg-name="NHL : Seattle Kraken vs Pittsburgh Penguins" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",04:00 PM - NHL : Seattle Kraken vs Pittsburgh Penguins - 04:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201352/index.m3u8
+#EXTINF:-1 tvg-id="d3cfe50380" tvg-name="Liga MX - Clausura : Cruz Azul vs Puebla" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",06:00 PM - Liga MX - Clausura : Cruz Azul vs Puebla - 06:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7256752/index.m3u8
+#EXTINF:-1 tvg-id="bcf1c9ebbc" tvg-name="NBA : Brooklyn Nets vs Miami Heat" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",06:00 PM - NBA : Brooklyn Nets vs Miami Heat - 06:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7200040/index.m3u8
+#EXTINF:-1 tvg-id="112f2cccc2" tvg-name="NHL : St. Louis Blues vs Dallas Stars" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : St. Louis Blues vs Dallas Stars - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199692/index.m3u8
+#EXTINF:-1 tvg-id="2e1e2a9784" tvg-name="NHL : Ottawa Senators vs Toronto Maple Leafs" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : Ottawa Senators vs Toronto Maple Leafs - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199679/index.m3u8
+#EXTINF:-1 tvg-id="717ae6da88" tvg-name="NHL : Columbus Blue Jackets vs Los Angeles Kings" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : Columbus Blue Jackets vs Los Angeles Kings - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199630/index.m3u8
+#EXTINF:-1 tvg-id="c3bfdf8cf9" tvg-name="NHL : Detroit Red Wings vs Tampa Bay Lightning" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : Detroit Red Wings vs Tampa Bay Lightning - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201332/index.m3u8
+#EXTINF:-1 tvg-id="a1366105ab" tvg-name="NHL : Minnesota Wild vs Calgary Flames" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : Minnesota Wild vs Calgary Flames - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201333/index.m3u8
+#EXTINF:-1 tvg-id="5fa91853b6" tvg-name="NHL : Montreal Canadiens vs New Jersey Devils" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:00 PM - NHL : Montreal Canadiens vs New Jersey Devils - 07:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201331/index.m3u8
+#EXTINF:-1 tvg-id="f8c9aa4dd2" tvg-name="NBA : Cleveland Cavaliers vs Houston Rockets" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:30 PM - NBA : Cleveland Cavaliers vs Houston Rockets - 07:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7200009/index.m3u8
+#EXTINF:-1 tvg-id="c3926629a8" tvg-name="NBA : Atlanta Hawks vs Toronto Raptors" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:30 PM - NBA : Atlanta Hawks vs Toronto Raptors - 07:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199821/index.m3u8
+#EXTINF:-1 tvg-id="dd11378b35" tvg-name="NHL : New York Islanders vs Carolina Hurricanes" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",07:30 PM - NHL : New York Islanders vs Carolina Hurricanes - 07:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201335/index.m3u8
+#EXTINF:-1 tvg-id="22591b7e8e" tvg-name="Liga MX - Clausura : Santos Laguna vs Club America" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",08:05 PM - Liga MX - Clausura : Santos Laguna vs Club America - 08:05 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7256755/index.m3u8
+#EXTINF:-1 tvg-id="80298aea7c" tvg-name="NBA : Golden State Warriors vs Los Angeles Lakers" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",08:30 PM - NBA : Golden State Warriors vs Los Angeles Lakers - 08:30 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7200045/index.m3u8
+#EXTINF:-1 tvg-id="2d3ba1bb54" tvg-name="NBA : Phoenix Suns vs Washington" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",09:00 PM - NBA : Phoenix Suns vs Washington - 09:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7200019/index.m3u8
+#EXTINF:-1 tvg-id="2a6c474f6a" tvg-name="NHL : San Jose Sharks vs Florida Panthers" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",10:00 PM - NHL : San Jose Sharks vs Florida Panthers - 10:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7201353/index.m3u8
+#EXTINF:-1 tvg-id="513279de5e" tvg-name="NHL : Vancouver Canucks vs Washington Capitals" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",10:00 PM - NHL : Vancouver Canucks vs Washington Capitals - 10:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199716/index.m3u8
+#EXTINF:-1 tvg-id="79d727ba72" tvg-name="NHL : Anaheim Ducks vs Nashville Predators" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",10:00 PM - NHL : Anaheim Ducks vs Nashville Predators - 10:00 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7199589/index.m3u8
+#EXTINF:-1 tvg-id="447409e108" tvg-name="Liga MX - Clausura : Monterrey vs Pachuca" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:10 PM - Liga MX - Clausura : Monterrey vs Pachuca - 10:10 PM - EST - (01/25/2025)
+https://webufffit.mizhls.ru/lb/bet7256754/index.m3u8
+#EXTINF:-1 tvg-id="dd97ca8d49" tvg-name="Premier League : Geylang vs Lion City Sailors" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",05:00 AM - Premier League : Geylang vs Lion City Sailors - 05:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7182810/index.m3u8
+#EXTINF:-1 tvg-id="b9c7e529c7" tvg-name="Premier League : Tanjong Pagar United vs Brunei DPMM" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",05:00 AM - Premier League : Tanjong Pagar United vs Brunei DPMM - 05:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7182809/index.m3u8
+#EXTINF:-1 tvg-id="16f8d493f6" tvg-name="Liga 2 : Penafiel vs Vizela" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",06:00 AM - Liga 2 : Penafiel vs Vizela - 06:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7243223/index.m3u8
+#EXTINF:-1 tvg-id="2b26051b2a" tvg-name="TBSL : Mersin MSK vs Merkezefendi" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",07:30 AM - TBSL : Mersin MSK vs Merkezefendi - 07:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7288730/index.m3u8
+#EXTINF:-1 tvg-id="d982c497b7" tvg-name="Bundesliga 2 : Ulm vs Jahn Regensburg" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 AM - Bundesliga 2 : Ulm vs Jahn Regensburg - 07:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6949996/index.m3u8
+#EXTINF:-1 tvg-id="caffe66dce" tvg-name="Bundesliga 2 : Darmstadt vs Paderborn" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 AM - Bundesliga 2 : Darmstadt vs Paderborn - 07:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6949989/index.m3u8
+#EXTINF:-1 tvg-id="0accd43da9" tvg-name="Bundesliga 2 : Hannover vs Preussen Munster" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:30 AM - Bundesliga 2 : Hannover vs Preussen Munster - 07:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6949991/index.m3u8
+#EXTINF:-1 tvg-id="56af0c71ec" tvg-name="Super League : St. Gallen vs Lausanne Sport" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",08:15 AM - Super League : St. Gallen vs Lausanne Sport - 08:15 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6949997/index.m3u8
+#EXTINF:-1 tvg-id="fa1527f2bf" tvg-name="HNL : Rijeka vs Lokomotiva Zagreb" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:00 AM - HNL : Rijeka vs Lokomotiva Zagreb - 09:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7244210/index.m3u8
+#EXTINF:-1 tvg-id="8852a7c86a" tvg-name="Super League : Mumbai City vs Mohammedan" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:00 AM - Super League : Mumbai City vs Mohammedan - 09:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6979625/index.m3u8
+#EXTINF:-1 tvg-id="54ddb0c53f" tvg-name="Bundesliga : Hoffenheim vs Eintracht Frankfurt" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",09:30 AM - Bundesliga : Hoffenheim vs Eintracht Frankfurt - 09:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6944965/index.m3u8
+#EXTINF:-1 tvg-id="4ab73faeb6" tvg-name="ICE League : Black Wings Linz vs Olimpija Ljubljana" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",09:30 AM - ICE League : Black Wings Linz vs Olimpija Ljubljana - 09:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7217903/index.m3u8
+#EXTINF:-1 tvg-id="686393c36c" tvg-name="NLA : Rapperswil Jona Lakers vs Lugano" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",09:45 AM - NLA : Rapperswil Jona Lakers vs Lugano - 09:45 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7283973/index.m3u8
+#EXTINF:-1 tvg-id="acd5ce45ad" tvg-name="Liga 3 - Gr.A : Vilaverdense vs Amarante" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.A : Vilaverdense vs Amarante - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7247829/index.m3u8
+#EXTINF:-1 tvg-id="5bee7c31bf" tvg-name="Liga 3 - Gr.A : Trofense vs Lusitania" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.A : Trofense vs Lusitania - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7247828/index.m3u8
+#EXTINF:-1 tvg-id="aa2a947866" tvg-name="Liga 3 - Gr.A : Sao Joao Ver vs Varzim SC" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.A : Sao Joao Ver vs Varzim SC - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7247827/index.m3u8
+#EXTINF:-1 tvg-id="3b7ccd3b11" tvg-name="Liga 3 - Gr.A : AD Fafe vs Anadia" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.A : AD Fafe vs Anadia - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7247825/index.m3u8
+#EXTINF:-1 tvg-id="65d08c782f" tvg-name="Liga 3 - Gr.A : AD Sanjoanense vs Braga B" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - Liga 3 - Gr.A : AD Sanjoanense vs Braga B - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7247826/index.m3u8
+#EXTINF:-1 tvg-id="8db75f411b" tvg-name="ICE League : Pioneers Vorarlberg vs EC VSV" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",10:00 AM - ICE League : Pioneers Vorarlberg vs EC VSV - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7217907/index.m3u8
+#EXTINF:-1 tvg-id="8084e2cfaa" tvg-name="TBSL : Galatasaray vs Turk Telekom" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",10:00 AM - TBSL : Galatasaray vs Turk Telekom - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7288733/index.m3u8
+#EXTINF:-1 tvg-id="c7b67f0769" tvg-name="SuperLiga : Sepsi Sfantu Gheorghe vs Otelul Galati" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:00 AM - SuperLiga : Sepsi Sfantu Gheorghe vs Otelul Galati - 10:00 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6944989/index.m3u8
+#EXTINF:-1 tvg-id="4ba7551231" tvg-name="Liga 2 : Uniao de Leiria vs Portimonense" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Liga 2 : Uniao de Leiria vs Portimonense - 10:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7243222/index.m3u8
+#EXTINF:-1 tvg-id="1f9b87b8ef" tvg-name="Primeira Liga : Estoril Praia vs Vitoria Guimaraes" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Primeira Liga : Estoril Praia vs Vitoria Guimaraes - 10:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6950034/index.m3u8
+#EXTINF:-1 tvg-id="326adcfe25" tvg-name="Super League : Basel vs Sion" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Super League : Basel vs Sion - 10:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6950013/index.m3u8
+#EXTINF:-1 tvg-id="db1d4e7827" tvg-name="Super League : Luzern vs Zurich" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",10:30 AM - Super League : Luzern vs Zurich - 10:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6950014/index.m3u8
+#EXTINF:-1 tvg-id="41ed7217ea" tvg-name="ABL : BC Vienna vs Gunners Oberwart" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",11:30 AM - ABL : BC Vienna vs Gunners Oberwart - 11:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7182841/index.m3u8
+#EXTINF:-1 tvg-id="284354fed3" tvg-name="ICE League : Vienna Capitals vs RB Salzburg" tvg-logo="https://raw.githubusercontent.com/dtankdempse/topembed-m3u/refs/heads/main/images/bg/hockey.png" group-title="Ice Hockey",11:30 AM - ICE League : Vienna Capitals vs RB Salzburg - 11:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7182842/index.m3u8
+#EXTINF:-1 tvg-id="edabe517bc" tvg-name="Bundesliga : St.Pauli vs Union Berlin" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",11:30 AM - Bundesliga : St.Pauli vs Union Berlin - 11:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6944971/index.m3u8
+#EXTINF:-1 tvg-id="d3141ff535" tvg-name="HNL : Hajduk Split vs Slaven Belupo" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",11:30 AM - HNL : Hajduk Split vs Slaven Belupo - 11:30 AM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7244211/index.m3u8
+#EXTINF:-1 tvg-id="8925db8dfe" tvg-name="ABL : Arkadia Traiskirchen vs UBSC Graz" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/basketball.png?raw=true" group-title="Basketball",12:00 PM - ABL : Arkadia Traiskirchen vs UBSC Graz - 12:00 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7182843/index.m3u8
+#EXTINF:-1 tvg-id="0f72f5d670" tvg-name="Liga MX - Clausura : UNAM Pumas vs Atlas" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",01:00 PM - Liga MX - Clausura : UNAM Pumas vs Atlas - 01:00 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7256756/index.m3u8
+#EXTINF:-1 tvg-id="125a4dbfed" tvg-name="Primeira Liga : Porto vs Santa Clara" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",01:00 PM - Primeira Liga : Porto vs Santa Clara - 01:00 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6950031/index.m3u8
+#EXTINF:-1 tvg-id="8999d22579" tvg-name="SuperLiga : UTA Arad vs FCSB" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",01:00 PM - SuperLiga : UTA Arad vs FCSB - 01:00 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6944994/index.m3u8
+#EXTINF:-1 tvg-id="9a561a88f2" tvg-name="Primera Division - Apertura : Deportivo Rayo Zuliano vs Caracas" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",02:30 PM - Primera Division - Apertura : Deportivo Rayo Zuliano vs Caracas - 02:30 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7336075/index.m3u8
+#EXTINF:-1 tvg-id="57a262106e" tvg-name="Primeira Liga : Braga vs Boavista" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",03:30 PM - Primeira Liga : Braga vs Boavista - 03:30 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet6950028/index.m3u8
+#EXTINF:-1 tvg-id="9080357847" tvg-name="Primera Division - Apertura : Deportivo Tachira vs Zamora" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",04:45 PM - Primera Division - Apertura : Deportivo Tachira vs Zamora - 04:45 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7336076/index.m3u8
+#EXTINF:-1 tvg-id="24cfad0828" tvg-name="Supercupa : Nacional Montevideo vs CA Penarol" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",06:30 PM - Supercupa : Nacional Montevideo vs CA Penarol - 06:30 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7359533/index.m3u8
+#EXTINF:-1 tvg-id="1bf39438ba" tvg-name="Primera Division - Apertura : Portuguesa vs Yaracuyanos" tvg-logo="https://github.com/dtankdempse/topembed-m3u/blob/main/images/bg/football.png?raw=true" group-title="Football",07:00 PM - Primera Division - Apertura : Portuguesa vs Yaracuyanos - 07:00 PM - EST - (01/26/2025)
+https://webufffit.mizhls.ru/lb/bet7336117/index.m3u8
